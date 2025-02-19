@@ -14,7 +14,7 @@ This project implements steganography to securely hide and retrieve messages ins
 ## **Technologies Used**  
 - Python   
 - OpenCV (`cv2` module)
-- OS module  
+- OS Library 
 
 ## **Installation**  
 Ensure you have Python installed. Then, install the required dependencies:  
